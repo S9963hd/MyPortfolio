@@ -1,0 +1,60 @@
+.progressbar-70{
+    display:flex;
+    flex-flow:row wrap;
+    animation:progressbar70 2s ease-in-out;
+    width:70%;
+    background-color:black;
+}
+@keyframes progressbar70 {
+    from{
+        width:0%;
+    }
+    to{
+        width:70%;
+    }
+}
+.progressbar-80{
+    display:flex;
+    flex-flow:row wrap;
+    animation:progressbar80 2s ease-in-out;
+    width:80%;
+    background-color:black;
+}
+@keyframes progressbar80 {
+    from{
+        width:0%;
+    }
+    to{
+        width:80%;
+    }
+}
+.progressbar-60{
+    display:flex;
+    flex-flow:row wrap;
+    animation:progressbar60 2s ease-in-out;
+    width:60%;
+    background-color:black;
+}
+@keyframes progressbar60 {
+    from{
+        width:0%;
+    }
+    to{
+        width:60%;
+    }
+}
+.progressbar-90{
+    display:flex;
+    flex-flow:row wrap;
+    animation:progressbar90 2s ease-in-out;
+    width:90%;
+    background-color:black;
+}
+@keyframes progressbar90 {
+    from{
+        width:0%;
+    }
+    to{
+        width:90%;
+    }
+}
